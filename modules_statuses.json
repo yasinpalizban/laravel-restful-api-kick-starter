@@ -1,0 +1,7 @@
+{
+    "Shared": true,
+    "Home": true,
+    "Auth": true,
+    "Common": true,
+    "App": true
+}
