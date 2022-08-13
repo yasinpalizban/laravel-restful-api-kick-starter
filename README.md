@@ -1,6 +1,6 @@
 # Laravel 9 Modular RestFull Api Kick Starter
 
-Laravel restful api kick start is amazing  project, very power full  scaffolding to develop any application with out being how project is getting bigger and bigger. 
+Laravel restful api kick start is amazing  project, very power full  scaffolding to develop any application without being worry about how project is getting bigger and bigger. 
 
 ### Instructions
 
